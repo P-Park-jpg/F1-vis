@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F1 2026 中国大奖赛深度战术复盘</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            background-color: #0b0b0b;
+            color: #eeeeee;
+            margin: 0;
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .header { text-align: center; margin-bottom: 10px; }
+        .header h1 { margin: 0; font-size: 24px; color: #fff; letter-spacing: 1px; }
+        .header p { color: #888; font-size: 13px; margin-top: 5px; }
+
+        #controls {
+            display: flex;
+            align-items: center;
+            background-color: #1a1a1a;
+            padding: 10px 20px;
+            border-radius: 30px;
+            margin-bottom: 15px;
+            border: 1px solid #333;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+        }
+        #play-pause-btn {
+            background-color: #e10600; 
+            color: white;
+            border: none;
+            border-radius: 6px;
+            padding: 6px 15px;
+            font-size: 13px;
+            font-weight: bold;
+            cursor: pointer;
+            width: 70px;
+            transition: all 0.2s;
+        }
+        #play-pause-btn:hover { background-color: #b80500; transform: scale(1.05); }
+        
+        #lap-slider {
+            -webkit-appearance: none;
+            width: 350px;
+            height: 6px;
+            background: #333;
+            border-radius: 3px;
+            margin: 0 15px;
+            outline: none;
+        }
+        #lap-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 16px;
+            height: 16px;
+            background: #fff;
+            border-radius: 50%;
+            cursor: pointer;
+        }
+        #lap-display { font-size: 16px; font-weight: bold; width: 80px; text-align: center; color: #e10600; }
+
+        #chart-container {
+            background-color: #141414;
+            border-radius: 12px;
+            padding: 20px;
+            border: 1px solid #222;
+            position: relative;
+        }
+
+        .axis text { fill: #777; font-size: 10px; }
+        .axis path, .axis line { stroke: #2a2a2a; }
+        .y-axis path { display: none; }
+        .grid-line { stroke: #222; stroke-dasharray: 2,2; }
+
+        .driver-path { fill: none; stroke-width: 2.5; stroke-linejoin: round; stroke-linecap: round; }
+        .driver-label { font-size: 10px; font-weight: bold; }
+        
+        .safety-car-area { opacity: 0.15; }
+        .sc-label { font-size: 10px; font-weight: bold; fill: #aaa; }
+        
+        .stint-rect { cursor: pointer; transition: opacity 0.2s; }
+        .stint-y-axis text { font-size: 9px; font-weight: bold; fill: #aaa; }
+
+        .tooltip {
+            position: absolute;
+            padding: 8px;
+            background: rgba(20, 20, 20, 0.95);
+            border: 1px solid #444;
+            color: #fff;
+            border-radius: 4px;
+            pointer-events: none;
+            font-size: 11px;
+            line-height: 1.4;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+            z-index: 100;
+        }
+
+        .gap-path { fill: none; stroke-linejoin: round; stroke-linecap: round; }
+        .y-axis-gap text { font-size: 10px; fill: #aaa; }
+
+        .focus-line {
+            stroke: #555;
+            stroke-width: 1px;
+            stroke-dasharray: 4,4;
+            pointer-events: none;
+        }
+
+        .focus-dot {
+            fill: #fff;
+            stroke-width: 2px;
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>2026 Chinese Grand Prix Race</h1>
+        <p>联动分析：上方为实时排位，中间为差距演变，下方为全车手换胎策略图</p>
+    </div>
+
+    <div id="controls">
+        <button id="play-pause-btn">播放</button>
+        <input type="range" id="lap-slider" min="1" max="56" value="1">
+        <span id="lap-display">第 1 圈</span>
+    </div>
+
+    <div id="chart-container">
+    </div>
+
+    <div class="tooltip" id="main-tooltip" style="opacity: 0;"></div>
+    <script>
+        // --- 画布尺寸与基础配置 ---
+        const margin = { top: 20, right: 60, bottom: 30, left: 50 };
+        const width = 960 - margin.left - margin.right;
+
+        const heightLine = 280;  // 上：排位折线图
+        const heightGap = 240;   // 中：差距演变图
+        const heightStint = 200; // 下：轮胎区间图
+        const spacing = 40;      // 图表间距
+
+        const totalHeight = heightLine + heightGap + heightStint + spacing * 2 + margin.top + margin.bottom;
+
+        const teamColors = {
+            "Red Bull Racing": "#3671C6", "Ferrari": "#E80020", "Mercedes": "#27F4D2",
+            "McLaren": "#FF8000", "Aston Martin": "#229971", "Alpine": "#FF87BC",
+            "Williams": "#64C4FF", "Kick Sauber": "#52E252", "RB": "#6692FF", "Haas F1 Team": "#B6BABD"
+        };
+        const tyreColors = { "SOFT": "#ff3333", "MEDIUM": "#ffcc00", "HARD": "#eeeeee", "INTERMEDIATE": "#33cc33", "WET": "#3366ff" };
+
+        const svg = d3.select("#chart-container")
+            .append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", totalHeight);
+
+        const lineChart = svg.append("g").attr("transform", `translate(${margin.left},${margin.top})`);
+        const gapChart = svg.append("g").attr("transform", `translate(${margin.left},${margin.top + heightLine + spacing})`);
+        const stintChart = svg.append("g").attr("transform", `translate(${margin.left},${margin.top + heightLine + heightGap + spacing * 2})`);
+
+        const tooltip = d3.select("#main-tooltip");
+
+        let isPlaying = false, currentLap = 1, maxLap = 56, timer = null;
+        const animationDuration = 500;
+
+        // --- 加载与处理数据 ---
+        d3.json("data.json").then(data => {
+            const { raceData, pitStops, stints, safetyCars } = data;
+            const driversGrouped = d3.group(raceData, d => d.driver);
+            maxLap = d3.max(raceData, d => d.lap);
+            d3.select("#lap-slider").attr("max", maxLap);
+
+            // 计算 Y轴 车手排序
+            const lap1Data = raceData.filter(d => d.lap === 1).sort((a, b) => a.position - b.position);
+            const orderedDrivers = lap1Data.map(d => d.driver);
+            Array.from(driversGrouped.keys()).forEach(d => { if (!orderedDrivers.includes(d)) orderedDrivers.push(d); });
+
+            // 处理轮胎数据
+            const processedStints = [];
+            for (const [driver, driverStints] of d3.group(stints, d => d.driver)) {
+                const driverRaceData = driversGrouped.get(driver);
+                const driverMaxLap = driverRaceData ? d3.max(driverRaceData, d => d.lap) : 0;
+                const sortedStints = driverStints.sort((a, b) => a.startLap - b.startLap);
+                for (let i = 0; i < sortedStints.length; i++) {
+                    processedStints.push({
+                        driver: driver, startLap: sortedStints[i].startLap,
+                        endLap: (i < sortedStints.length - 1) ? sortedStints[i+1].startLap : driverMaxLap,
+                        compound: sortedStints[i].compound
+                    });
+                }
+            }
+
+            // --- 比例尺设定 ---
+            // 共享 X 轴（圈数）
+            const x = d3.scaleLinear().domain([1, maxLap]).range([0, width]);
+            
+            // 排位 Y 轴
+            const yLine = d3.scaleLinear().domain([1, 20]).range([0, heightLine]);
+            
+            // 差距 Y 轴 (0秒在最上方，向下落后数值增大)
+            const maxGap = d3.max(raceData, d => d.gap || 0) || 120; 
+            const yGap = d3.scaleLinear().domain([0, maxGap]).range([0, heightGap]);
+            
+            // 轮胎 Y 轴
+            const yStint = d3.scaleBand().domain(orderedDrivers).range([0, heightStint]).padding(0.2);
+
+            // --- 绘制静态背景与坐标轴 ---
+            function drawSafetyCars(container, height) {
+                const sc = container.append("g");
+                sc.selectAll("rect").data(safetyCars).enter().append("rect")
+                    .attr("class", "safety-car-area").attr("x", d => x(d.startLap))
+                    .attr("width", d => x(d.endLap) - x(d.startLap)).attr("y", 0).attr("height", height)
+                    .attr("fill", d => d.type === "SC" ? "#ffff00" : "#ff9900");
+                sc.selectAll("text").data(safetyCars).enter().append("text")
+                    .attr("class", "sc-label").attr("x", d => x(d.startLap) + 5).attr("y", 12).text(d => d.type);
+            }
+            
+            // 安全车背景
+            drawSafetyCars(lineChart, heightLine);
+            drawSafetyCars(gapChart, heightGap);
+
+            // 排位图轴线
+            lineChart.append("g").call(d3.axisLeft(yLine).ticks(20).tickSize(-width).tickFormat(d => "P" + d))
+                .selectAll(".tick line").attr("class", "grid-line");
+            
+            // 差距图轴线
+            gapChart.append("g").attr("class", "y-axis-gap")
+                .call(d3.axisLeft(yGap).ticks(10).tickSize(-width).tickFormat(d => "+" + d + "s"))
+                .selectAll(".tick line").attr("class", "grid-line");
+
+            // 轮胎图轴线
+            stintChart.append("g").attr("transform", `translate(0,${heightStint})`)
+                .call(d3.axisBottom(x).ticks(20).tickFormat(d => d));
+            stintChart.append("g").attr("class", "stint-y-axis").call(d3.axisLeft(yStint));
+
+            // --- 初始化动态元素 ---
+            //排位折线
+            const lineGen = d3.line().x(d => x(d.lap)).y(d => yLine(d.position)).curve(d3.curveMonotoneX);
+            const driverGroups = lineChart.selectAll(".driver-group").data(Array.from(driversGrouped)).enter().append("g").attr("class", "driver-group");
+            const paths = driverGroups.append("path").attr("class", "driver-path")
+                .attr("stroke", d => teamColors[d[1][0].team] || "#fff").attr("opacity", 0.7);
+            const labels = driverGroups.append("text").attr("class", "driver-label")
+                .attr("fill", d => teamColors[d[1][0].team] || "#fff").text(d => d[0]);
+
+            //差距折线 
+            const gapLineGen = d3.line()
+                .defined(d => d.gap !== undefined && d.gap !== null)
+                .x(d => x(d.lap)).y(d => yGap(d.gap || 0)).curve(d3.curveMonotoneX);
+            
+            const gapPaths = gapChart.selectAll(".gap-path").data(Array.from(driversGrouped)).enter().append("path")
+                .attr("class", "gap-path")
+                .attr("stroke", d => teamColors[d[1][0].team] || "#fff")
+                .attr("stroke-width", 2.5).attr("opacity", 0.7);
+
+            //轮胎区间条
+            const stintBars = stintChart.selectAll(".stint-rect").data(processedStints).enter().append("rect")
+                .attr("class", "stint-rect").attr("y", d => yStint(d.driver))
+                .attr("height", yStint.bandwidth()).attr("fill", d => tyreColors[d.compound] || "#666").attr("opacity", 0.9);
+
+            // --- 核心联动更新逻辑 ---
+            function update(lap, useTransition = false) {
+                currentLap = +lap;
+                d3.select("#lap-display").text(`第 ${currentLap} 圈`);
+                d3.select("#lap-slider").property("value", currentLap);
+
+                const t = svg.transition().duration(useTransition ? animationDuration : 0).ease(d3.easeLinear);
+
+                // 更新排位线与标签
+                paths.transition(t).attr("d", d => lineGen(d[1].filter(p => p.lap <= currentLap)));
+                labels.transition(t).attr("transform", d => {
+                    const pos = d[1].findLast(p => p.lap <= currentLap);
+                    return pos ? `translate(${x(pos.lap) + 5},${yLine(pos.position) + 3})` : "translate(-100,-100)";
+                });
+
+                // 更新差距线
+                gapPaths.transition(t).attr("d", d => gapLineGen(d[1].filter(p => p.lap <= currentLap)));
+
+                // 更新轮胎图宽度
+                stintBars.transition(t).attr("x", d => x(d.startLap)).attr("width", d => {
+                    const currentEnd = Math.min(currentLap, d.endLap);
+                    return currentEnd > d.startLap ? x(currentEnd) - x(d.startLap) : 0;
+                });
+            }
+
+            // --- 全局高亮联动功能 ---
+            function highlightDriver(driverName) {
+                // 高亮排位图
+                driverGroups.transition().duration(200).style("opacity", g => g[0] === driverName ? 1 : 0.1);
+                const targetLine = lineChart.selectAll(".driver-group").filter(g => g[0] === driverName);
+                targetLine.select("path").transition().duration(200).attr("stroke-width", 5);
+                targetLine.raise();
+
+                // 高亮差距图
+                gapPaths.transition().duration(200)
+                    .style("opacity", d => d[0] === driverName ? 1 : 0.1)
+                    .attr("stroke-width", d => d[0] === driverName ? 5 : 2.5);
+                gapChart.selectAll(".gap-path").filter(d => d[0] === driverName).raise();
+
+                // 高亮轮胎图
+                stintBars.transition().duration(200).style("opacity", s => s.driver === driverName ? 1 : 0.15);
+            }
+
+            function resetHighlight() {
+                driverGroups.transition().duration(200).style("opacity", 1);
+                lineChart.selectAll(".driver-path").transition().duration(200).attr("stroke-width", 2.5);
+                gapPaths.transition().duration(200).style("opacity", 0.7).attr("stroke-width", 2.5);
+                stintBars.transition().duration(200).style("opacity", 0.9);
+                tooltip.transition().duration(200).style("opacity", 0);
+            }
+
+            // 为三部分绑定悬浮事件
+            driverGroups.on("mouseenter", (e, d) => highlightDriver(d[0])).on("mouseleave", resetHighlight);
+            gapPaths.on("mouseenter", (e, d) => highlightDriver(d[0])).on("mouseleave", resetHighlight);
+
+            stintBars.on("mousemove", function(e, d) {
+                const tooltipWidth = tooltip.node().offsetWidth;
+                const pageWidth = window.innerWidth;
+                let xPos = e.pageX + 15;
+                if (xPos + tooltipWidth > pageWidth) xPos = e.pageX - tooltipWidth - 15;
+                tooltip.style("left", xPos + "px").style("top", (e.pageY - 20) + "px");
+            }).on("mouseenter", function(e, d) {
+                highlightDriver(d.driver);
+                tooltip.transition().duration(100).style("opacity", 1);
+                const teamColor = teamColors[driversGrouped.get(d.driver)[0].team];
+                tooltip.html(`
+                    <div style="border-bottom:1px solid #444; margin-bottom:5px; padding-bottom:3px;">
+                        <strong style="color:${teamColor}">${d.driver}</strong>
+                    </div>
+                    区间: 第 ${d.startLap} - ${d.endLap} 圈<br>
+                    轮胎: <span style="color:${tyreColors[d.compound]}">●</span> ${d.compound}
+                `);
+            }).on("mouseleave", resetHighlight);
+
+            // --- 播放与滑块控制 ---
+            d3.select("#lap-slider").on("input", function() {
+                if (isPlaying) togglePlay();
+                update(this.value, false);
+            });
+
+            function togglePlay() {
+                isPlaying = !isPlaying;
+                d3.select("#play-pause-btn").text(isPlaying ? "暂停" : "播放");
+                if (isPlaying) {
+                    if (currentLap >= maxLap) update(1, false);
+                    timer = d3.interval(() => {
+                        if (currentLap < maxLap) {
+                            currentLap++;
+                            update(currentLap, true);
+                        } else {
+                            togglePlay();
+                        }
+                    }, animationDuration);
+                } else if (timer) timer.stop();
+            }
+            d3.select("#play-pause-btn").on("click", togglePlay);
+
+            // --- 垂直扫描线与动态数据提示 ---
+
+            // 创建垂直辅助线
+            const focusLine = svg.append("line")
+                .attr("class", "focus-line")
+                .attr("y1", margin.top)
+                .attr("y2", totalHeight - margin.bottom)
+                .style("opacity", 0);
+
+            // 创建高亮圆点
+            const dotLine = lineChart.append("circle").attr("class", "focus-dot").attr("r", 4).style("opacity", 0);
+            const dotGap = gapChart.append("circle").attr("class", "focus-dot").attr("r", 4).style("opacity", 0);
+
+            function highlightDriver(driverName, mouseEvent = null) {
+                // 基础高亮逻辑
+                driverGroups.transition().duration(200).style("opacity", g => g[0] === driverName ? 1 : 0.1);
+                gapPaths.transition().duration(200).style("opacity", d => d[0] === driverName ? 1 : 0.1);
+                stintBars.transition().duration(200).style("opacity", s => s.driver === driverName ? 1 : 0.15);
+                
+                const targetGroup = lineChart.selectAll(".driver-group").filter(g => g[0] === driverName);
+                targetGroup.raise().select("path").attr("stroke-width", 5);
+                
+                const targetGapPath = gapChart.selectAll(".gap-path").filter(d => d[0] === driverName);
+                targetGapPath.raise().attr("stroke-width", 5);
+
+                // 动态数据计算
+                if (mouseEvent) {
+                    // 计算当前鼠标对应的圈数
+                    const mouseX = d3.pointer(mouseEvent, lineChart.node())[0];
+                    let lap = Math.round(x.invert(mouseX));
+                    lap = Math.max(1, Math.min(lap, currentLap));
+
+                    // 获取该车手在该圈的数据
+                    const driverData = driversGrouped.get(driverName);
+                    const lapData = driverData.find(d => d.lap === lap);
+
+                    if (lapData) {
+                        // 更新扫描线位置
+                        focusLine.attr("x1", x(lap) + margin.left).attr("x2", x(lap) + margin.left).style("opacity", 1);
+
+                        // 更新圆点位置
+                        dotLine.attr("cx", x(lap)).attr("cy", yLine(lapData.position)).style("opacity", 1).attr("fill", teamColors[lapData.team]);
+                        dotGap.attr("cx", x(lap)).attr("cy", yGap(lapData.gap || 0)).style("opacity", 1).attr("fill", teamColors[lapData.team]);
+
+                        // 更新 Tooltip 内容
+                        const teamColor = teamColors[lapData.team];
+                        tooltip.transition().duration(0).style("opacity", 1);
+                        tooltip.html(`
+                            <div style="border-bottom:1px solid #444; margin-bottom:5px; padding-bottom:3px;">
+                                <strong style="color:${teamColor}">${driverName}</strong> | 第 ${lap} 圈
+                            </div>
+                            实时排名: <span style="color:#fff; font-weight:bold;">P${lapData.position}</span><br>
+                            落后首车: <span style="color:#ffcc00; font-weight:bold;">+${lapData.gap}s</span><br>
+                            车队: ${lapData.team}
+                        `)
+                        .style("left", (mouseEvent.pageX + 20) + "px")
+                        .style("top", (mouseEvent.pageY - 20) + "px");
+                    }
+                }
+            }
+
+            function resetHighlight() {
+                driverGroups.transition().duration(200).style("opacity", 1);
+                lineChart.selectAll(".driver-path").attr("stroke-width", 2.5);
+                gapPaths.transition().duration(200).style("opacity", 0.7).attr("stroke-width", 2.5);
+                stintBars.transition().duration(200).style("opacity", 0.9);
+                
+                focusLine.style("opacity", 0);
+                dotLine.style("opacity", 0);
+                dotGap.style("opacity", 0);
+                tooltip.style("opacity", 0);
+            }
+
+            // --- 绑定事件 ---
+
+            // 为排位图和差距图的路径绑定 mousemove
+            [driverGroups, gapPaths].forEach(group => {
+                group.on("mousemove", function(e, d) {
+                    // d[0] 是 driverName
+                    highlightDriver(d[0], e);
+                })
+                .on("mouseleave", resetHighlight);
+            });
+
+            stintBars.on("mousemove", function(e, d) {
+                highlightDriver(d.driver, e);
+            }).on("mouseleave", resetHighlight);
+
+            update(1, false); // 初始化第一圈
+        });
+    </script>
+</body>
+</html>
