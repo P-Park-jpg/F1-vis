@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>F1 2026 中国大奖赛深度战术复盘</title>
+    <title>F1 2021 阿布扎比大奖赛深度战术复盘</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <style>
         body {
@@ -119,7 +119,7 @@
 <body>
 
     <div class="header">
-        <h1>2026 Chinese Grand Prix Race</h1>
+        <h1>2021 Abu Dhabi Grand Prix Race</h1>
         <p>联动分析：上方为实时排位，中间为差距演变，下方为全车手换胎策略图</p>
     </div>
 
@@ -167,7 +167,7 @@
         const animationDuration = 500;
 
         // --- 加载与处理数据 ---
-        d3.json("data.json").then(data => {
+        d3.json("21_abudabi_data.json").then(data => {
             const { raceData, pitStops, stints, safetyCars } = data;
             const driversGrouped = d3.group(raceData, d => d.driver);
             maxLap = d3.max(raceData, d => d.lap);

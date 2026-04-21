@@ -1,0 +1,7438 @@
+{
+  "raceData": [
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 1,
+      "position": 12,
+      "gap": 7.644
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 1,
+      "position": 3,
+      "gap": 2.07
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 1,
+      "position": 11,
+      "gap": 6.993
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 1,
+      "position": 6,
+      "gap": 4.457
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 1,
+      "position": 14,
+      "gap": 8.648
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 1,
+      "position": 7,
+      "gap": 4.914
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 1,
+      "position": 10,
+      "gap": 6.581
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 1,
+      "position": 9,
+      "gap": 6.086
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 1,
+      "position": 2,
+      "gap": 1.114
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 1,
+      "position": 5,
+      "gap": 3.972
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 1,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 1,
+      "position": 18,
+      "gap": 10.412
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 1,
+      "position": 15,
+      "gap": 9.003
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 1,
+      "position": 4,
+      "gap": 3.133
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 1,
+      "position": 16,
+      "gap": 9.488
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 1,
+      "position": 19,
+      "gap": 10.958
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 1,
+      "position": 17,
+      "gap": 9.924
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 1,
+      "position": 8,
+      "gap": 5.594
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 1,
+      "position": 13,
+      "gap": 8.136
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 2,
+      "position": 12,
+      "gap": 11.667
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 2,
+      "position": 3,
+      "gap": 2.786
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 2,
+      "position": 11,
+      "gap": 10.624
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 2,
+      "position": 6,
+      "gap": 6.806
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 2,
+      "position": 14,
+      "gap": 13.079
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 2,
+      "position": 7,
+      "gap": 7.617
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 2,
+      "position": 10,
+      "gap": 9.928
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 2,
+      "position": 9,
+      "gap": 9.38
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 2,
+      "position": 2,
+      "gap": 1.426
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 2,
+      "position": 5,
+      "gap": 6.144
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 2,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 2,
+      "position": 18,
+      "gap": 15.67
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 2,
+      "position": 15,
+      "gap": 13.592
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 2,
+      "position": 4,
+      "gap": 4.667
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 2,
+      "position": 17,
+      "gap": 15.242
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 2,
+      "position": 19,
+      "gap": 16.353
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 2,
+      "position": 16,
+      "gap": 14.452
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 2,
+      "position": 8,
+      "gap": 8.541
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 2,
+      "position": 13,
+      "gap": 12.515
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 3,
+      "position": 12,
+      "gap": 14.613
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 3,
+      "position": 3,
+      "gap": 3.472
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 3,
+      "position": 11,
+      "gap": 13.548
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 3,
+      "position": 6,
+      "gap": 9.129
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 3,
+      "position": 14,
+      "gap": 16.435
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 3,
+      "position": 7,
+      "gap": 9.841
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 3,
+      "position": 10,
+      "gap": 12.437
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 3,
+      "position": 9,
+      "gap": 11.645
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 3,
+      "position": 2,
+      "gap": 1.666
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 3,
+      "position": 5,
+      "gap": 8.322
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 3,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 3,
+      "position": 18,
+      "gap": 20.695
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 3,
+      "position": 15,
+      "gap": 16.958
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 3,
+      "position": 4,
+      "gap": 6.235
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 3,
+      "position": 17,
+      "gap": 19.891
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 3,
+      "position": 19,
+      "gap": 21.648
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 3,
+      "position": 16,
+      "gap": 17.81
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 3,
+      "position": 8,
+      "gap": 10.637
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 3,
+      "position": 13,
+      "gap": 15.765
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 4,
+      "position": 12,
+      "gap": 17.263
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 4,
+      "position": 3,
+      "gap": 3.585
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 4,
+      "position": 11,
+      "gap": 16.08
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 4,
+      "position": 6,
+      "gap": 10.849
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 4,
+      "position": 14,
+      "gap": 19.517
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 4,
+      "position": 7,
+      "gap": 11.706
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 4,
+      "position": 10,
+      "gap": 14.908
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 4,
+      "position": 9,
+      "gap": 14.049
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 4,
+      "position": 2,
+      "gap": 1.903
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 4,
+      "position": 5,
+      "gap": 9.888
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 4,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 4,
+      "position": 18,
+      "gap": 24.313
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 4,
+      "position": 15,
+      "gap": 20.196
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 4,
+      "position": 4,
+      "gap": 7.802
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 4,
+      "position": 17,
+      "gap": 23.406
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 4,
+      "position": 19,
+      "gap": 25.468
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 4,
+      "position": 16,
+      "gap": 21.251
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 4,
+      "position": 8,
+      "gap": 12.845
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 4,
+      "position": 13,
+      "gap": 18.529
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 5,
+      "position": 12,
+      "gap": 20.0
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 5,
+      "position": 3,
+      "gap": 4.204
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 5,
+      "position": 11,
+      "gap": 18.789
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 5,
+      "position": 6,
+      "gap": 12.849
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 5,
+      "position": 15,
+      "gap": 23.971
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 5,
+      "position": 7,
+      "gap": 13.899
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 5,
+      "position": 10,
+      "gap": 17.338
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 5,
+      "position": 9,
+      "gap": 16.273
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 5,
+      "position": 2,
+      "gap": 1.991
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 5,
+      "position": 5,
+      "gap": 11.759
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 5,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 5,
+      "position": 18,
+      "gap": 27.317
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 5,
+      "position": 14,
+      "gap": 22.796
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 5,
+      "position": 4,
+      "gap": 9.559
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 5,
+      "position": 17,
+      "gap": 26.531
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 5,
+      "position": 19,
+      "gap": 28.516
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 5,
+      "position": 16,
+      "gap": 24.605
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 5,
+      "position": 8,
+      "gap": 14.859
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 5,
+      "position": 13,
+      "gap": 21.496
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 6,
+      "position": 12,
+      "gap": 22.193
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 6,
+      "position": 3,
+      "gap": 4.85
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 6,
+      "position": 11,
+      "gap": 21.116
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 6,
+      "position": 6,
+      "gap": 14.842
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 6,
+      "position": 15,
+      "gap": 26.968
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 6,
+      "position": 7,
+      "gap": 15.847
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 6,
+      "position": 10,
+      "gap": 19.521
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 6,
+      "position": 9,
+      "gap": 18.561
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 6,
+      "position": 2,
+      "gap": 2.105
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 6,
+      "position": 5,
+      "gap": 13.721
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 6,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 6,
+      "position": 18,
+      "gap": 30.765
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 6,
+      "position": 14,
+      "gap": 25.519
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 6,
+      "position": 4,
+      "gap": 11.295
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 6,
+      "position": 17,
+      "gap": 29.941
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 6,
+      "position": 19,
+      "gap": 32.431
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 6,
+      "position": 16,
+      "gap": 27.88
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 6,
+      "position": 8,
+      "gap": 16.905
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 6,
+      "position": 13,
+      "gap": 24.216
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 7,
+      "position": 12,
+      "gap": 24.4
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 7,
+      "position": 3,
+      "gap": 5.322
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 7,
+      "position": 11,
+      "gap": 23.377
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 7,
+      "position": 6,
+      "gap": 16.612
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 7,
+      "position": 15,
+      "gap": 29.488
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 7,
+      "position": 7,
+      "gap": 17.581
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 7,
+      "position": 10,
+      "gap": 21.992
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 7,
+      "position": 9,
+      "gap": 20.775
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 7,
+      "position": 2,
+      "gap": 2.191
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 7,
+      "position": 5,
+      "gap": 15.483
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 7,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 7,
+      "position": 18,
+      "gap": 33.896
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 7,
+      "position": 14,
+      "gap": 27.684
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 7,
+      "position": 4,
+      "gap": 13.061
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 7,
+      "position": 17,
+      "gap": 32.769
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 7,
+      "position": 19,
+      "gap": 35.47
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 7,
+      "position": 16,
+      "gap": 30.68
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 7,
+      "position": 8,
+      "gap": 18.55
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 7,
+      "position": 13,
+      "gap": 26.373
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 8,
+      "position": 12,
+      "gap": 26.95
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 8,
+      "position": 3,
+      "gap": 5.677
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 8,
+      "position": 11,
+      "gap": 25.844
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 8,
+      "position": 6,
+      "gap": 18.399
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 8,
+      "position": 15,
+      "gap": 31.91
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 8,
+      "position": 7,
+      "gap": 19.454
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 8,
+      "position": 10,
+      "gap": 24.361
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 8,
+      "position": 9,
+      "gap": 22.821
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 8,
+      "position": 2,
+      "gap": 2.423
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 8,
+      "position": 5,
+      "gap": 17.185
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 8,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 8,
+      "position": 18,
+      "gap": 37.539
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 8,
+      "position": 14,
+      "gap": 30.041
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 8,
+      "position": 4,
+      "gap": 14.731
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 8,
+      "position": 17,
+      "gap": 35.979
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 8,
+      "position": 19,
+      "gap": 39.078
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 8,
+      "position": 16,
+      "gap": 33.515
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 8,
+      "position": 8,
+      "gap": 20.498
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 8,
+      "position": 13,
+      "gap": 28.81
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 9,
+      "position": 12,
+      "gap": 29.959
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 9,
+      "position": 3,
+      "gap": 6.384
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 9,
+      "position": 11,
+      "gap": 28.478
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 9,
+      "position": 6,
+      "gap": 20.147
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 9,
+      "position": 15,
+      "gap": 34.64
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 9,
+      "position": 7,
+      "gap": 21.477
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 9,
+      "position": 10,
+      "gap": 26.514
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 9,
+      "position": 9,
+      "gap": 25.184
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 9,
+      "position": 2,
+      "gap": 2.738
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 9,
+      "position": 5,
+      "gap": 18.985
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 9,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 9,
+      "position": 18,
+      "gap": 40.938
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 9,
+      "position": 14,
+      "gap": 32.809
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 9,
+      "position": 4,
+      "gap": 16.54
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 9,
+      "position": 17,
+      "gap": 39.327
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 9,
+      "position": 19,
+      "gap": 42.276
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 9,
+      "position": 16,
+      "gap": 36.522
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 9,
+      "position": 8,
+      "gap": 22.657
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 9,
+      "position": 13,
+      "gap": 31.493
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 10,
+      "position": 12,
+      "gap": 32.623
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 10,
+      "position": 3,
+      "gap": 7.105
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 10,
+      "position": 11,
+      "gap": 31.251
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 10,
+      "position": 6,
+      "gap": 22.199
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 10,
+      "position": 15,
+      "gap": 37.476
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 10,
+      "position": 7,
+      "gap": 23.583
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 10,
+      "position": 10,
+      "gap": 28.956
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 10,
+      "position": 9,
+      "gap": 27.54
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 10,
+      "position": 2,
+      "gap": 3.412
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 10,
+      "position": 5,
+      "gap": 21.012
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 10,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 10,
+      "position": 19,
+      "gap": 46.1
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 10,
+      "position": 14,
+      "gap": 35.548
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 10,
+      "position": 4,
+      "gap": 18.498
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 10,
+      "position": 17,
+      "gap": 42.5
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 10,
+      "position": 18,
+      "gap": 45.691
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 10,
+      "position": 16,
+      "gap": 39.046
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 10,
+      "position": 8,
+      "gap": 25.145
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 10,
+      "position": 13,
+      "gap": 34.312
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 11,
+      "position": 12,
+      "gap": 35.215
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 11,
+      "position": 3,
+      "gap": 7.857
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 11,
+      "position": 11,
+      "gap": 33.694
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 11,
+      "position": 6,
+      "gap": 24.061
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 11,
+      "position": 15,
+      "gap": 40.085
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 11,
+      "position": 7,
+      "gap": 25.586
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 11,
+      "position": 10,
+      "gap": 31.536
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 11,
+      "position": 9,
+      "gap": 30.071
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 11,
+      "position": 2,
+      "gap": 4.415
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 11,
+      "position": 5,
+      "gap": 22.969
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 11,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 11,
+      "position": 19,
+      "gap": 68.427
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 11,
+      "position": 14,
+      "gap": 38.274
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 11,
+      "position": 4,
+      "gap": 20.164
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 11,
+      "position": 17,
+      "gap": 45.877
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 11,
+      "position": 18,
+      "gap": 48.35
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 11,
+      "position": 16,
+      "gap": 41.843
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 11,
+      "position": 8,
+      "gap": 27.603
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 11,
+      "position": 13,
+      "gap": 36.924
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 12,
+      "position": 12,
+      "gap": 37.196
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 12,
+      "position": 3,
+      "gap": 8.456
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 12,
+      "position": 11,
+      "gap": 35.663
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 12,
+      "position": 6,
+      "gap": 25.876
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 12,
+      "position": 15,
+      "gap": 42.377
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 12,
+      "position": 7,
+      "gap": 27.527
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 12,
+      "position": 10,
+      "gap": 33.638
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 12,
+      "position": 9,
+      "gap": 32.247
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 12,
+      "position": 2,
+      "gap": 5.131
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 12,
+      "position": 5,
+      "gap": 24.488
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 12,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 12,
+      "position": 19,
+      "gap": 69.983
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 12,
+      "position": 14,
+      "gap": 40.441
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 12,
+      "position": 4,
+      "gap": 21.37
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 12,
+      "position": 17,
+      "gap": 48.282
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 12,
+      "position": 18,
+      "gap": 50.741
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 12,
+      "position": 16,
+      "gap": 44.084
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 12,
+      "position": 8,
+      "gap": 29.289
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 12,
+      "position": 13,
+      "gap": 39.226
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 13,
+      "position": 12,
+      "gap": 39.346
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 13,
+      "position": 3,
+      "gap": 9.465
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 13,
+      "position": 11,
+      "gap": 37.893
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 13,
+      "position": 6,
+      "gap": 27.941
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 13,
+      "position": 15,
+      "gap": 44.7
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 13,
+      "position": 7,
+      "gap": 29.241
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 13,
+      "position": 10,
+      "gap": 36.609
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 13,
+      "position": 9,
+      "gap": 34.85
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 13,
+      "position": 2,
+      "gap": 8.388
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 13,
+      "position": 5,
+      "gap": 26.813
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 13,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 13,
+      "position": 19,
+      "gap": 71.956
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 13,
+      "position": 14,
+      "gap": 42.9
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 13,
+      "position": 4,
+      "gap": 22.913
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 13,
+      "position": 17,
+      "gap": 51.102
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 13,
+      "position": 18,
+      "gap": 53.551
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 13,
+      "position": 16,
+      "gap": 46.912
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 13,
+      "position": 8,
+      "gap": 31.11
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 13,
+      "position": 13,
+      "gap": 41.821
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 14,
+      "position": 12,
+      "gap": 39.734
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 14,
+      "position": 2,
+      "gap": 8.604
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 14,
+      "position": 11,
+      "gap": 38.482
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 14,
+      "position": 6,
+      "gap": 29.738
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 14,
+      "position": 15,
+      "gap": 45.069
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 14,
+      "position": 7,
+      "gap": 30.585
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 14,
+      "position": 10,
+      "gap": 37.502
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 14,
+      "position": 9,
+      "gap": 35.763
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 14,
+      "position": 4,
+      "gap": 25.386
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 14,
+      "position": 5,
+      "gap": 27.335
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 14,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 14,
+      "position": 19,
+      "gap": 72.43
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 14,
+      "position": 14,
+      "gap": 43.142
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 14,
+      "position": 3,
+      "gap": 22.251
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 14,
+      "position": 17,
+      "gap": 51.781
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 14,
+      "position": 18,
+      "gap": 54.066
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 14,
+      "position": 16,
+      "gap": 47.412
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 14,
+      "position": 8,
+      "gap": 31.452
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 14,
+      "position": 13,
+      "gap": 42.114
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 15,
+      "position": 12,
+      "gap": 32.235
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 15,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 15,
+      "position": 11,
+      "gap": 31.114
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 15,
+      "position": 8,
+      "gap": 25.434
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 15,
+      "position": 15,
+      "gap": 37.33
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 15,
+      "position": 6,
+      "gap": 22.454
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 15,
+      "position": 9,
+      "gap": 30.176
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 15,
+      "position": 10,
+      "gap": 30.894
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 15,
+      "position": 4,
+      "gap": 15.693
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 15,
+      "position": 5,
+      "gap": 19.498
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 15,
+      "position": 2,
+      "gap": 10.57
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 15,
+      "position": 19,
+      "gap": 64.932
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 15,
+      "position": 14,
+      "gap": 35.705
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 15,
+      "position": 3,
+      "gap": 14.004
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 15,
+      "position": 17,
+      "gap": 44.73
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 15,
+      "position": 18,
+      "gap": 46.734
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 15,
+      "position": 16,
+      "gap": 39.831
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 15,
+      "position": 7,
+      "gap": 24.346
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 15,
+      "position": 13,
+      "gap": 34.479
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 16,
+      "position": 10,
+      "gap": 33.181
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 16,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 16,
+      "position": 9,
+      "gap": 32.079
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 16,
+      "position": 16,
+      "gap": 46.604
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 16,
+      "position": 13,
+      "gap": 38.474
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 16,
+      "position": 6,
+      "gap": 22.885
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 16,
+      "position": 8,
+      "gap": 31.154
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 16,
+      "position": 18,
+      "gap": 50.725
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 16,
+      "position": 4,
+      "gap": 15.016
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 16,
+      "position": 5,
+      "gap": 19.921
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 16,
+      "position": 2,
+      "gap": 8.72
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 16,
+      "position": 19,
+      "gap": 65.707
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 16,
+      "position": 12,
+      "gap": 36.617
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 16,
+      "position": 3,
+      "gap": 13.912
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 16,
+      "position": 15,
+      "gap": 46.094
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 16,
+      "position": 17,
+      "gap": 48.78
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 16,
+      "position": 14,
+      "gap": 40.626
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 16,
+      "position": 7,
+      "gap": 24.417
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 16,
+      "position": 11,
+      "gap": 35.478
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 17,
+      "position": 10,
+      "gap": 33.958
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 17,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 17,
+      "position": 9,
+      "gap": 33.042
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 17,
+      "position": 15,
+      "gap": 46.045
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 17,
+      "position": 13,
+      "gap": 39.026
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 17,
+      "position": 6,
+      "gap": 22.758
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 17,
+      "position": 8,
+      "gap": 32.015
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 17,
+      "position": 18,
+      "gap": 50.782
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 17,
+      "position": 4,
+      "gap": 14.157
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 17,
+      "position": 5,
+      "gap": 22.205
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 17,
+      "position": 2,
+      "gap": 6.533
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 17,
+      "position": 19,
+      "gap": 66.321
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 17,
+      "position": 11,
+      "gap": 36.96
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 17,
+      "position": 3,
+      "gap": 13.256
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 17,
+      "position": 16,
+      "gap": 48.018
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 17,
+      "position": 17,
+      "gap": 50.019
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 17,
+      "position": 14,
+      "gap": 40.971
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 17,
+      "position": 7,
+      "gap": 24.142
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 17,
+      "position": 12,
+      "gap": 37.943
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 18,
+      "position": 8,
+      "gap": 34.095
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 18,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 18,
+      "position": 7,
+      "gap": 33.028
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 18,
+      "position": 14,
+      "gap": 44.74
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 18,
+      "position": 11,
+      "gap": 38.807
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 18,
+      "position": 5,
+      "gap": 21.844
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 18,
+      "position": 9,
+      "gap": 34.178
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 18,
+      "position": 16,
+      "gap": 50.068
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 18,
+      "position": 3,
+      "gap": 12.071
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 18,
+      "position": 13,
+      "gap": 41.779
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 18,
+      "position": 2,
+      "gap": 3.834
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 18,
+      "position": 19,
+      "gap": 66.469
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 18,
+      "position": 10,
+      "gap": 36.532
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 18,
+      "position": 4,
+      "gap": 13.575
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 18,
+      "position": 15,
+      "gap": 48.342
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 18,
+      "position": 17,
+      "gap": 51.967
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 18,
+      "position": 12,
+      "gap": 40.809
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 18,
+      "position": 6,
+      "gap": 23.032
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 18,
+      "position": 18,
+      "gap": 58.75
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 19,
+      "position": 8,
+      "gap": 33.536
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 19,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 19,
+      "position": 7,
+      "gap": 32.325
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 19,
+      "position": 13,
+      "gap": 43.347
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 19,
+      "position": 10,
+      "gap": 38.056
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 19,
+      "position": 5,
+      "gap": 20.364
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 19,
+      "position": 17,
+      "gap": 53.158
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 19,
+      "position": 15,
+      "gap": 49.292
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 19,
+      "position": 3,
+      "gap": 9.75
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 19,
+      "position": 12,
+      "gap": 41.109
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 19,
+      "position": 2,
+      "gap": 1.032
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 19,
+      "position": 19,
+      "gap": 66.418
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 19,
+      "position": 9,
+      "gap": 35.748
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 19,
+      "position": 4,
+      "gap": 14.925
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 19,
+      "position": 14,
+      "gap": 48.192
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 19,
+      "position": 16,
+      "gap": 52.185
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 19,
+      "position": 11,
+      "gap": 40.455
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 19,
+      "position": 6,
+      "gap": 21.65
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 19,
+      "position": 18,
+      "gap": 57.272
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 20,
+      "position": 7,
+      "gap": 29.131
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 20,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 20,
+      "position": 6,
+      "gap": 27.99
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 20,
+      "position": 13,
+      "gap": 38.481
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 20,
+      "position": 10,
+      "gap": 34.499
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 20,
+      "position": 4,
+      "gap": 15.637
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 20,
+      "position": 16,
+      "gap": 48.129
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 20,
+      "position": 14,
+      "gap": 44.274
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 20,
+      "position": 3,
+      "gap": 3.778
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 20,
+      "position": 11,
+      "gap": 36.189
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 20,
+      "position": 2,
+      "gap": 0.116
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 20,
+      "position": 19,
+      "gap": 62.645
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 20,
+      "position": 9,
+      "gap": 32.194
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 20,
+      "position": 8,
+      "gap": 30.994
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 20,
+      "position": 15,
+      "gap": 46.15
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 20,
+      "position": 17,
+      "gap": 49.879
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 20,
+      "position": 12,
+      "gap": 37.206
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 20,
+      "position": 5,
+      "gap": 16.911
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 20,
+      "position": 18,
+      "gap": 52.914
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 21,
+      "position": 7,
+      "gap": 28.182
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 21,
+      "position": 3,
+      "gap": 6.223
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 21,
+      "position": 6,
+      "gap": 27.022
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 21,
+      "position": 12,
+      "gap": 37.443
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 21,
+      "position": 11,
+      "gap": 36.473
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 21,
+      "position": 4,
+      "gap": 14.788
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 21,
+      "position": 16,
+      "gap": 47.644
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 21,
+      "position": 14,
+      "gap": 43.523
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 21,
+      "position": 2,
+      "gap": 1.746
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 21,
+      "position": 10,
+      "gap": 35.495
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 21,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 21,
+      "position": 19,
+      "gap": 62.994
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 21,
+      "position": 9,
+      "gap": 32.156
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 21,
+      "position": 8,
+      "gap": 30.145
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 21,
+      "position": 15,
+      "gap": 46.435
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 21,
+      "position": 17,
+      "gap": 50.343
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 21,
+      "position": 13,
+      "gap": 40.556
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 21,
+      "position": 5,
+      "gap": 15.957
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 21,
+      "position": 18,
+      "gap": 52.493
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 22,
+      "position": 7,
+      "gap": 29.933
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 22,
+      "position": 5,
+      "gap": 26.981
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 22,
+      "position": 6,
+      "gap": 28.915
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 22,
+      "position": 11,
+      "gap": 39.025
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 22,
+      "position": 17,
+      "gap": 59.312
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 22,
+      "position": 3,
+      "gap": 16.48
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 22,
+      "position": 13,
+      "gap": 48.689
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 22,
+      "position": 12,
+      "gap": 44.996
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 22,
+      "position": 2,
+      "gap": 2.062
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 22,
+      "position": 10,
+      "gap": 36.695
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 22,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 22,
+      "position": 19,
+      "gap": 65.872
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 22,
+      "position": 9,
+      "gap": 34.242
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 22,
+      "position": 8,
+      "gap": 31.942
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 22,
+      "position": 14,
+      "gap": 50.551
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 22,
+      "position": 15,
+      "gap": 53.158
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 22,
+      "position": 18,
+      "gap": 63.272
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 22,
+      "position": 4,
+      "gap": 17.51
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 22,
+      "position": 16,
+      "gap": 54.624
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 23,
+      "position": 7,
+      "gap": 31.877
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 23,
+      "position": 5,
+      "gap": 27.831
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 23,
+      "position": 6,
+      "gap": 30.845
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 23,
+      "position": 11,
+      "gap": 40.741
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 23,
+      "position": 17,
+      "gap": 61.325
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 23,
+      "position": 4,
+      "gap": 20.661
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 23,
+      "position": 13,
+      "gap": 50.574
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 23,
+      "position": 12,
+      "gap": 46.636
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 23,
+      "position": 2,
+      "gap": 2.574
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 23,
+      "position": 9,
+      "gap": 38.478
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 23,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 23,
+      "position": 19,
+      "gap": 69.155
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 23,
+      "position": 10,
+      "gap": 38.598
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 23,
+      "position": 8,
+      "gap": 34.015
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 23,
+      "position": 14,
+      "gap": 53.691
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 23,
+      "position": 15,
+      "gap": 56.142
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 23,
+      "position": 18,
+      "gap": 65.307
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 23,
+      "position": 3,
+      "gap": 19.831
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 23,
+      "position": 16,
+      "gap": 57.307
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 24,
+      "position": 6,
+      "gap": 33.544
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 24,
+      "position": 4,
+      "gap": 28.457
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 24,
+      "position": 5,
+      "gap": 32.533
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 24,
+      "position": 9,
+      "gap": 41.866
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 24,
+      "position": 17,
+      "gap": 63.185
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 24,
+      "position": 10,
+      "gap": 43.841
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 24,
+      "position": 12,
+      "gap": 51.993
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 24,
+      "position": 11,
+      "gap": 48.256
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 24,
+      "position": 2,
+      "gap": 2.774
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 24,
+      "position": 8,
+      "gap": 39.794
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 24,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 24,
+      "position": 19,
+      "gap": 71.696
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 24,
+      "position": 16,
+      "gap": 60.838
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 24,
+      "position": 7,
+      "gap": 35.612
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 24,
+      "position": 13,
+      "gap": 56.647
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 24,
+      "position": 14,
+      "gap": 59.74
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 24,
+      "position": 18,
+      "gap": 68.635
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 24,
+      "position": 3,
+      "gap": 20.949
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 24,
+      "position": 15,
+      "gap": 60.437
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 25,
+      "position": 6,
+      "gap": 35.82
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 25,
+      "position": 4,
+      "gap": 28.312
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 25,
+      "position": 5,
+      "gap": 34.19
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 25,
+      "position": 9,
+      "gap": 43.412
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 25,
+      "position": 17,
+      "gap": 65.312
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 25,
+      "position": 10,
+      "gap": 45.271
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 25,
+      "position": 12,
+      "gap": 53.602
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 25,
+      "position": 11,
+      "gap": 50.017
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 25,
+      "position": 2,
+      "gap": 2.945
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 25,
+      "position": 8,
+      "gap": 41.196
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 25,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 25,
+      "position": 18,
+      "gap": 74.092
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 25,
+      "position": 15,
+      "gap": 63.17
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 25,
+      "position": 7,
+      "gap": 37.352
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 25,
+      "position": 13,
+      "gap": 59.832
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 25,
+      "position": 16,
+      "gap": 64.664
+    },
+    {
+      "driver": "RAI",
+      "team": "Alfa Romeo Racing",
+      "lap": 25,
+      "position": 19,
+      "gap": 123.682
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 25,
+      "position": 3,
+      "gap": 21.95
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 25,
+      "position": 14,
+      "gap": 62.359
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 26,
+      "position": 6,
+      "gap": 37.191
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 26,
+      "position": 4,
+      "gap": 28.548
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 26,
+      "position": 5,
+      "gap": 35.64
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 26,
+      "position": 9,
+      "gap": 44.777
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 26,
+      "position": 16,
+      "gap": 67.189
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 26,
+      "position": 10,
+      "gap": 46.817
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 26,
+      "position": 12,
+      "gap": 54.778
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 26,
+      "position": 11,
+      "gap": 51.415
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 26,
+      "position": 2,
+      "gap": 3.468
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 26,
+      "position": 8,
+      "gap": 42.471
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 26,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 26,
+      "position": 17,
+      "gap": 76.984
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 26,
+      "position": 15,
+      "gap": 64.884
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 26,
+      "position": 7,
+      "gap": 38.78
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 26,
+      "position": 13,
+      "gap": 62.822
+    },
+    {
+      "driver": "RUS",
+      "team": "Williams",
+      "lap": 26,
+      "position": 18,
+      "gap": 142.862
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 26,
+      "position": 3,
+      "gap": 23.509
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 26,
+      "position": 14,
+      "gap": 64.286
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 27,
+      "position": 6,
+      "gap": 38.822
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 27,
+      "position": 4,
+      "gap": 28.624
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 27,
+      "position": 5,
+      "gap": 37.044
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 27,
+      "position": 9,
+      "gap": 46.017
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 27,
+      "position": 16,
+      "gap": 69.138
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 27,
+      "position": 10,
+      "gap": 48.533
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 27,
+      "position": 12,
+      "gap": 56.092
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 27,
+      "position": 11,
+      "gap": 52.791
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 27,
+      "position": 2,
+      "gap": 3.841
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 27,
+      "position": 8,
+      "gap": 43.679
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 27,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 27,
+      "position": 17,
+      "gap": 79.913
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 27,
+      "position": 15,
+      "gap": 67.803
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 27,
+      "position": 7,
+      "gap": 40.471
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 27,
+      "position": 14,
+      "gap": 67.344
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 27,
+      "position": 3,
+      "gap": 24.461
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 27,
+      "position": 13,
+      "gap": 66.023
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 28,
+      "position": 6,
+      "gap": 39.986
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 28,
+      "position": 4,
+      "gap": 28.443
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 28,
+      "position": 5,
+      "gap": 38.213
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 28,
+      "position": 9,
+      "gap": 47.128
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 28,
+      "position": 15,
+      "gap": 71.842
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 28,
+      "position": 10,
+      "gap": 49.381
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 28,
+      "position": 12,
+      "gap": 57.114
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 28,
+      "position": 11,
+      "gap": 54.204
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 28,
+      "position": 2,
+      "gap": 3.633
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 28,
+      "position": 8,
+      "gap": 44.7
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 28,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 28,
+      "position": 17,
+      "gap": 82.496
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 28,
+      "position": 14,
+      "gap": 69.489
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 28,
+      "position": 7,
+      "gap": 42.047
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 28,
+      "position": 16,
+      "gap": 73.367
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 28,
+      "position": 3,
+      "gap": 25.449
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 28,
+      "position": 13,
+      "gap": 68.162
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 29,
+      "position": 6,
+      "gap": 41.632
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 29,
+      "position": 4,
+      "gap": 28.937
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 29,
+      "position": 5,
+      "gap": 39.803
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 29,
+      "position": 9,
+      "gap": 48.899
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 29,
+      "position": 15,
+      "gap": 73.682
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 29,
+      "position": 10,
+      "gap": 51.003
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 29,
+      "position": 12,
+      "gap": 58.798
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 29,
+      "position": 11,
+      "gap": 55.712
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 29,
+      "position": 2,
+      "gap": 4.053
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 29,
+      "position": 8,
+      "gap": 46.424
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 29,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 29,
+      "position": 16,
+      "gap": 85.536
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 29,
+      "position": 14,
+      "gap": 71.521
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 29,
+      "position": 7,
+      "gap": 43.822
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 29,
+      "position": 17,
+      "gap": 95.663
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 29,
+      "position": 3,
+      "gap": 27.169
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 29,
+      "position": 13,
+      "gap": 70.372
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 30,
+      "position": 6,
+      "gap": 43.301
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 30,
+      "position": 3,
+      "gap": 29.768
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 30,
+      "position": 5,
+      "gap": 41.673
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 30,
+      "position": 9,
+      "gap": 50.484
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 30,
+      "position": 15,
+      "gap": 75.613
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 30,
+      "position": 10,
+      "gap": 52.55
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 30,
+      "position": 12,
+      "gap": 60.58
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 30,
+      "position": 11,
+      "gap": 57.082
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 30,
+      "position": 2,
+      "gap": 4.223
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 30,
+      "position": 8,
+      "gap": 48.011
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 30,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 30,
+      "position": 16,
+      "gap": 90.193
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 30,
+      "position": 14,
+      "gap": 73.609
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 30,
+      "position": 7,
+      "gap": 45.435
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 30,
+      "position": 17,
+      "gap": 97.448
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 30,
+      "position": 4,
+      "gap": 30.605
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 30,
+      "position": 13,
+      "gap": 72.639
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 31,
+      "position": 5,
+      "gap": 45.107
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 31,
+      "position": 3,
+      "gap": 30.223
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 31,
+      "position": 4,
+      "gap": 43.492
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 31,
+      "position": 8,
+      "gap": 52.37
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 31,
+      "position": 15,
+      "gap": 77.512
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 31,
+      "position": 10,
+      "gap": 54.811
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 31,
+      "position": 12,
+      "gap": 62.317
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 31,
+      "position": 11,
+      "gap": 58.908
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 31,
+      "position": 2,
+      "gap": 4.645
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 31,
+      "position": 7,
+      "gap": 49.653
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 31,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 31,
+      "position": 16,
+      "gap": 94.988
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 31,
+      "position": 14,
+      "gap": 75.585
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 31,
+      "position": 6,
+      "gap": 47.331
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 31,
+      "position": 17,
+      "gap": 99.346
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 31,
+      "position": 9,
+      "gap": 53.352
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 31,
+      "position": 13,
+      "gap": 74.649
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 32,
+      "position": 5,
+      "gap": 46.739
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 32,
+      "position": 3,
+      "gap": 30.599
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 32,
+      "position": 4,
+      "gap": 45.213
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 32,
+      "position": 8,
+      "gap": 53.749
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 32,
+      "position": 15,
+      "gap": 79.477
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 32,
+      "position": 10,
+      "gap": 56.558
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 32,
+      "position": 12,
+      "gap": 63.753
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 32,
+      "position": 11,
+      "gap": 60.524
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 32,
+      "position": 2,
+      "gap": 5.114
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 32,
+      "position": 7,
+      "gap": 51.3
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 32,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 32,
+      "position": 16,
+      "gap": 97.762
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 32,
+      "position": 14,
+      "gap": 77.784
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 32,
+      "position": 6,
+      "gap": 49.003
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 32,
+      "position": 17,
+      "gap": 101.333
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 32,
+      "position": 9,
+      "gap": 54.684
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 32,
+      "position": 13,
+      "gap": 76.801
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 33,
+      "position": 5,
+      "gap": 48.162
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 33,
+      "position": 3,
+      "gap": 30.817
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 33,
+      "position": 4,
+      "gap": 46.601
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 33,
+      "position": 8,
+      "gap": 55.155
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 33,
+      "position": 15,
+      "gap": 81.121
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 33,
+      "position": 10,
+      "gap": 57.954
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 33,
+      "position": 12,
+      "gap": 65.053
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 33,
+      "position": 11,
+      "gap": 61.812
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 33,
+      "position": 2,
+      "gap": 4.953
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 33,
+      "position": 7,
+      "gap": 52.384
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 33,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 33,
+      "position": 16,
+      "gap": 100.058
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 33,
+      "position": 14,
+      "gap": 79.463
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 33,
+      "position": 6,
+      "gap": 50.419
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 33,
+      "position": 17,
+      "gap": 103.133
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 33,
+      "position": 9,
+      "gap": 55.903
+    },
+    {
+      "driver": "GIO",
+      "team": "Alfa Romeo Racing",
+      "lap": 33,
+      "position": 13,
+      "gap": 78.501
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 34,
+      "position": 5,
+      "gap": 49.959
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 34,
+      "position": 3,
+      "gap": 30.922
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 34,
+      "position": 4,
+      "gap": 48.331
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 34,
+      "position": 9,
+      "gap": 58.004
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 34,
+      "position": 14,
+      "gap": 83.143
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 34,
+      "position": 10,
+      "gap": 59.77
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 34,
+      "position": 12,
+      "gap": 66.669
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 34,
+      "position": 11,
+      "gap": 63.792
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 34,
+      "position": 2,
+      "gap": 5.535
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 34,
+      "position": 7,
+      "gap": 53.984
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 34,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 34,
+      "position": 15,
+      "gap": 102.863
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 34,
+      "position": 13,
+      "gap": 80.818
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 34,
+      "position": 6,
+      "gap": 52.046
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 34,
+      "position": 16,
+      "gap": 105.462
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 34,
+      "position": 8,
+      "gap": 56.62
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 35,
+      "position": 5,
+      "gap": 55.049
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 35,
+      "position": 3,
+      "gap": 30.754
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 35,
+      "position": 4,
+      "gap": 51.025
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 35,
+      "position": 9,
+      "gap": 66.971
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 35,
+      "position": 14,
+      "gap": 97.379
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 35,
+      "position": 10,
+      "gap": 68.608
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 35,
+      "position": 12,
+      "gap": 76.204
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 35,
+      "position": 11,
+      "gap": 71.751
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 35,
+      "position": 2,
+      "gap": 5.705
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 35,
+      "position": 7,
+      "gap": 59.859
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 35,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 35,
+      "position": 15,
+      "gap": 121.873
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 35,
+      "position": 13,
+      "gap": 93.786
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 35,
+      "position": 6,
+      "gap": 58.246
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 35,
+      "position": 16,
+      "gap": 125.447
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 35,
+      "position": 8,
+      "gap": 62.936
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 36,
+      "position": 5,
+      "gap": 68.232
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 36,
+      "position": 3,
+      "gap": 42.086
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 36,
+      "position": 4,
+      "gap": 67.375
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 36,
+      "position": 12,
+      "gap": 94.157
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 36,
+      "position": 14,
+      "gap": 110.708
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 36,
+      "position": 9,
+      "gap": 80.721
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 36,
+      "position": 11,
+      "gap": 88.968
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 36,
+      "position": 10,
+      "gap": 87.04
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 36,
+      "position": 2,
+      "gap": 7.836
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 36,
+      "position": 7,
+      "gap": 73.564
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 36,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 36,
+      "position": 15,
+      "gap": 135.526
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 36,
+      "position": 13,
+      "gap": 107.881
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 36,
+      "position": 6,
+      "gap": 72.143
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 36,
+      "position": 16,
+      "gap": 137.55
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 36,
+      "position": 8,
+      "gap": 75.937
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 37,
+      "position": 9,
+      "gap": 68.721
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 37,
+      "position": 3,
+      "gap": 45.577
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 37,
+      "position": 7,
+      "gap": 67.399
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 37,
+      "position": 12,
+      "gap": 75.25
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 37,
+      "position": 14,
+      "gap": 87.913
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 37,
+      "position": 8,
+      "gap": 67.882
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 37,
+      "position": 11,
+      "gap": 71.452
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 37,
+      "position": 10,
+      "gap": 69.73
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 37,
+      "position": 2,
+      "gap": 20.225
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 37,
+      "position": 5,
+      "gap": 59.242
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 37,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 37,
+      "position": 15,
+      "gap": 111.454
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 37,
+      "position": 13,
+      "gap": 85.983
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 37,
+      "position": 4,
+      "gap": 57.48
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 37,
+      "position": 16,
+      "gap": 112.632
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 37,
+      "position": 6,
+      "gap": 61.162
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 38,
+      "position": 9,
+      "gap": 68.123
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 38,
+      "position": 3,
+      "gap": 42.17
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 38,
+      "position": 8,
+      "gap": 67.374
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 38,
+      "position": 12,
+      "gap": 73.818
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 38,
+      "position": 14,
+      "gap": 88.92
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 38,
+      "position": 7,
+      "gap": 66.031
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 38,
+      "position": 11,
+      "gap": 70.361
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 38,
+      "position": 10,
+      "gap": 69.223
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 38,
+      "position": 2,
+      "gap": 16.389
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 38,
+      "position": 5,
+      "gap": 57.552
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 38,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 38,
+      "position": 15,
+      "gap": 110.877
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 38,
+      "position": 13,
+      "gap": 84.59
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 38,
+      "position": 4,
+      "gap": 55.615
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 38,
+      "position": 16,
+      "gap": 112.319
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 38,
+      "position": 6,
+      "gap": 58.891
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 39,
+      "position": 9,
+      "gap": 70.378
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 39,
+      "position": 3,
+      "gap": 41.988
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 39,
+      "position": 8,
+      "gap": 69.423
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 39,
+      "position": 12,
+      "gap": 75.963
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 39,
+      "position": 14,
+      "gap": 91.104
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 39,
+      "position": 7,
+      "gap": 67.705
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 39,
+      "position": 11,
+      "gap": 73.065
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 39,
+      "position": 10,
+      "gap": 72.08
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 39,
+      "position": 2,
+      "gap": 15.73
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 39,
+      "position": 5,
+      "gap": 59.22
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 39,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 39,
+      "position": 15,
+      "gap": 113.855
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 39,
+      "position": 13,
+      "gap": 88.534
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 39,
+      "position": 4,
+      "gap": 57.237
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 39,
+      "position": 16,
+      "gap": 115.454
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 39,
+      "position": 6,
+      "gap": 60.089
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 40,
+      "position": 9,
+      "gap": 72.003
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 40,
+      "position": 3,
+      "gap": 41.244
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 40,
+      "position": 8,
+      "gap": 71.292
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 40,
+      "position": 12,
+      "gap": 77.009
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 40,
+      "position": 14,
+      "gap": 92.792
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 40,
+      "position": 7,
+      "gap": 68.686
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 40,
+      "position": 11,
+      "gap": 74.557
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 40,
+      "position": 10,
+      "gap": 73.632
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 40,
+      "position": 2,
+      "gap": 14.895
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 40,
+      "position": 5,
+      "gap": 60.279
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 40,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 40,
+      "position": 15,
+      "gap": 116.235
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 40,
+      "position": 13,
+      "gap": 89.93
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 40,
+      "position": 4,
+      "gap": 58.175
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 40,
+      "position": 16,
+      "gap": 117.694
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 40,
+      "position": 6,
+      "gap": 61.183
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 41,
+      "position": 8,
+      "gap": 73.67
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 41,
+      "position": 3,
+      "gap": 41.187
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 41,
+      "position": 9,
+      "gap": 75.06
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 41,
+      "position": 12,
+      "gap": 78.629
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 41,
+      "position": 14,
+      "gap": 95.068
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 41,
+      "position": 7,
+      "gap": 70.314
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 41,
+      "position": 11,
+      "gap": 76.861
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 41,
+      "position": 10,
+      "gap": 76.064
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 41,
+      "position": 2,
+      "gap": 14.478
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 41,
+      "position": 5,
+      "gap": 61.85
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 41,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 41,
+      "position": 15,
+      "gap": 119.171
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 41,
+      "position": 13,
+      "gap": 91.982
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 41,
+      "position": 4,
+      "gap": 59.736
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 41,
+      "position": 16,
+      "gap": 120.652
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 41,
+      "position": 6,
+      "gap": 62.689
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 42,
+      "position": 8,
+      "gap": 75.342
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 42,
+      "position": 3,
+      "gap": 41.445
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 42,
+      "position": 9,
+      "gap": 77.708
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 42,
+      "position": 12,
+      "gap": 80.576
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 42,
+      "position": 14,
+      "gap": 96.935
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 42,
+      "position": 7,
+      "gap": 71.759
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 42,
+      "position": 11,
+      "gap": 79.485
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 42,
+      "position": 10,
+      "gap": 78.683
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 42,
+      "position": 2,
+      "gap": 14.159
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 42,
+      "position": 5,
+      "gap": 63.456
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 42,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 42,
+      "position": 15,
+      "gap": 121.846
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 42,
+      "position": 13,
+      "gap": 93.899
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 42,
+      "position": 4,
+      "gap": 60.991
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 42,
+      "position": 16,
+      "gap": 123.412
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 42,
+      "position": 6,
+      "gap": 64.267
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 43,
+      "position": 8,
+      "gap": 76.817
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 43,
+      "position": 3,
+      "gap": 41.426
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 43,
+      "position": 9,
+      "gap": 80.039
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 43,
+      "position": 12,
+      "gap": 82.915
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 43,
+      "position": 14,
+      "gap": 99.127
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 43,
+      "position": 7,
+      "gap": 73.339
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 43,
+      "position": 11,
+      "gap": 82.144
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 43,
+      "position": 10,
+      "gap": 81.164
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 43,
+      "position": 2,
+      "gap": 13.981
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 43,
+      "position": 5,
+      "gap": 65.019
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 43,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 43,
+      "position": 15,
+      "gap": 124.783
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 43,
+      "position": 13,
+      "gap": 95.974
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 43,
+      "position": 4,
+      "gap": 62.554
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 43,
+      "position": 16,
+      "gap": 126.134
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 43,
+      "position": 6,
+      "gap": 65.979
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 44,
+      "position": 8,
+      "gap": 77.868
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 44,
+      "position": 3,
+      "gap": 41.32
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 44,
+      "position": 9,
+      "gap": 82.089
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 44,
+      "position": 12,
+      "gap": 85.066
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 44,
+      "position": 14,
+      "gap": 102.501
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 44,
+      "position": 7,
+      "gap": 74.312
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 44,
+      "position": 11,
+      "gap": 84.201
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 44,
+      "position": 10,
+      "gap": 83.308
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 44,
+      "position": 2,
+      "gap": 13.769
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 44,
+      "position": 5,
+      "gap": 66.147
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 44,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 44,
+      "position": 15,
+      "gap": 127.692
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 44,
+      "position": 13,
+      "gap": 97.573
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 44,
+      "position": 4,
+      "gap": 63.177
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 44,
+      "position": 16,
+      "gap": 128.938
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 44,
+      "position": 6,
+      "gap": 67.229
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 45,
+      "position": 8,
+      "gap": 78.772
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 45,
+      "position": 3,
+      "gap": 42.571
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 45,
+      "position": 9,
+      "gap": 84.142
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 45,
+      "position": 12,
+      "gap": 88.435
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 45,
+      "position": 14,
+      "gap": 104.311
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 45,
+      "position": 7,
+      "gap": 75.315
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 45,
+      "position": 11,
+      "gap": 86.203
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 45,
+      "position": 10,
+      "gap": 85.302
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 45,
+      "position": 2,
+      "gap": 13.571
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 45,
+      "position": 5,
+      "gap": 67.189
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 45,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 45,
+      "position": 15,
+      "gap": 131.781
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 45,
+      "position": 13,
+      "gap": 99.208
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 45,
+      "position": 4,
+      "gap": 64.14
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 45,
+      "position": 16,
+      "gap": 132.934
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 45,
+      "position": 6,
+      "gap": 68.102
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 46,
+      "position": 8,
+      "gap": 79.228
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 46,
+      "position": 3,
+      "gap": 42.329
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 46,
+      "position": 9,
+      "gap": 85.634
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 46,
+      "position": 12,
+      "gap": 90.147
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 46,
+      "position": 14,
+      "gap": 105.83
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 46,
+      "position": 7,
+      "gap": 75.935
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 46,
+      "position": 11,
+      "gap": 89.275
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 46,
+      "position": 10,
+      "gap": 87.044
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 46,
+      "position": 2,
+      "gap": 13.349
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 46,
+      "position": 5,
+      "gap": 67.978
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 46,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 46,
+      "position": 15,
+      "gap": 134.761
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 46,
+      "position": 13,
+      "gap": 102.326
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 46,
+      "position": 4,
+      "gap": 64.544
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 46,
+      "position": 16,
+      "gap": 135.659
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 46,
+      "position": 6,
+      "gap": 68.871
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 47,
+      "position": 8,
+      "gap": 79.244
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 47,
+      "position": 3,
+      "gap": 41.288
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 47,
+      "position": 9,
+      "gap": 87.077
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 47,
+      "position": 12,
+      "gap": 91.438
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 47,
+      "position": 14,
+      "gap": 106.915
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 47,
+      "position": 7,
+      "gap": 75.984
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 47,
+      "position": 11,
+      "gap": 90.446
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 47,
+      "position": 10,
+      "gap": 89.395
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 47,
+      "position": 2,
+      "gap": 12.322
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 47,
+      "position": 5,
+      "gap": 68.248
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 47,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 47,
+      "position": 15,
+      "gap": 137.278
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 47,
+      "position": 13,
+      "gap": 103.146
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 47,
+      "position": 4,
+      "gap": 64.658
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 47,
+      "position": 16,
+      "gap": 138.11
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 47,
+      "position": 6,
+      "gap": 69.037
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 48,
+      "position": 8,
+      "gap": 79.258
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 48,
+      "position": 3,
+      "gap": 40.164
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 48,
+      "position": 9,
+      "gap": 89.351
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 48,
+      "position": 12,
+      "gap": 92.523
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 48,
+      "position": 14,
+      "gap": 107.929
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 48,
+      "position": 7,
+      "gap": 76.092
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 48,
+      "position": 11,
+      "gap": 91.616
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 48,
+      "position": 10,
+      "gap": 90.503
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 48,
+      "position": 2,
+      "gap": 11.323
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 48,
+      "position": 6,
+      "gap": 70.691
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 48,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 48,
+      "position": 15,
+      "gap": 139.476
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 48,
+      "position": 13,
+      "gap": 103.919
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 48,
+      "position": 4,
+      "gap": 64.734
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 48,
+      "position": 16,
+      "gap": 141.205
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 48,
+      "position": 5,
+      "gap": 70.011
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 49,
+      "position": 7,
+      "gap": 79.725
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 49,
+      "position": 3,
+      "gap": 39.796
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 49,
+      "position": 8,
+      "gap": 91.04
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 49,
+      "position": 12,
+      "gap": 94.818
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 49,
+      "position": 14,
+      "gap": 109.763
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 49,
+      "position": 6,
+      "gap": 76.798
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 49,
+      "position": 11,
+      "gap": 94.002
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 49,
+      "position": 10,
+      "gap": 93.166
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 49,
+      "position": 2,
+      "gap": 11.105
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 49,
+      "position": 9,
+      "gap": 91.844
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 49,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 49,
+      "position": 15,
+      "gap": 142.363
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 49,
+      "position": 13,
+      "gap": 105.389
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 49,
+      "position": 4,
+      "gap": 65.591
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 49,
+      "position": 16,
+      "gap": 143.679
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 49,
+      "position": 5,
+      "gap": 70.375
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 50,
+      "position": 7,
+      "gap": 80.365
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 50,
+      "position": 3,
+      "gap": 39.44
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 50,
+      "position": 9,
+      "gap": 93.581
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 50,
+      "position": 12,
+      "gap": 96.986
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 50,
+      "position": 14,
+      "gap": 111.987
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 50,
+      "position": 6,
+      "gap": 77.51
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 50,
+      "position": 11,
+      "gap": 96.019
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 50,
+      "position": 10,
+      "gap": 95.025
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 50,
+      "position": 2,
+      "gap": 11.069
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 50,
+      "position": 8,
+      "gap": 91.907
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 50,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 50,
+      "position": 15,
+      "gap": 145.541
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 50,
+      "position": 13,
+      "gap": 106.937
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 50,
+      "position": 4,
+      "gap": 66.446
+    },
+    {
+      "driver": "LAT",
+      "team": "Williams",
+      "lap": 50,
+      "position": 16,
+      "gap": 146.647
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 50,
+      "position": 5,
+      "gap": 70.721
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 51,
+      "position": 7,
+      "gap": 80.873
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 51,
+      "position": 3,
+      "gap": 38.925
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 51,
+      "position": 9,
+      "gap": 95.071
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 51,
+      "position": 12,
+      "gap": 100.05
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 51,
+      "position": 14,
+      "gap": 113.647
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 51,
+      "position": 6,
+      "gap": 78.111
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 51,
+      "position": 11,
+      "gap": 97.827
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 51,
+      "position": 10,
+      "gap": 96.756
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 51,
+      "position": 2,
+      "gap": 11.183
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 51,
+      "position": 8,
+      "gap": 92.2
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 51,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 51,
+      "position": 15,
+      "gap": 149.221
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 51,
+      "position": 13,
+      "gap": 108.356
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 51,
+      "position": 4,
+      "gap": 67.13
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 51,
+      "position": 5,
+      "gap": 70.649
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 52,
+      "position": 7,
+      "gap": 89.415
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 52,
+      "position": 3,
+      "gap": 38.621
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 52,
+      "position": 9,
+      "gap": 110.533
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 52,
+      "position": 12,
+      "gap": 115.465
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 52,
+      "position": 14,
+      "gap": 131.983
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 52,
+      "position": 6,
+      "gap": 83.554
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 52,
+      "position": 11,
+      "gap": 115.01
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 52,
+      "position": 10,
+      "gap": 112.059
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 52,
+      "position": 2,
+      "gap": 11.909
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 52,
+      "position": 8,
+      "gap": 99.825
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 52,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 52,
+      "position": 15,
+      "gap": 178.99
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 52,
+      "position": 13,
+      "gap": 122.735
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 52,
+      "position": 4,
+      "gap": 69.479
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 52,
+      "position": 5,
+      "gap": 71.97
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 53,
+      "position": 7,
+      "gap": 104.122
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 53,
+      "position": 3,
+      "gap": 47.654
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 53,
+      "position": 9,
+      "gap": 145.542
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 53,
+      "position": 11,
+      "gap": 147.69
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 53,
+      "position": 14,
+      "gap": 165.764
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 53,
+      "position": 6,
+      "gap": 100.158
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 53,
+      "position": 13,
+      "gap": 152.9
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 53,
+      "position": 10,
+      "gap": 146.861
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 53,
+      "position": 2,
+      "gap": 15.407
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 53,
+      "position": 8,
+      "gap": 144.736
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 53,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 53,
+      "position": 15,
+      "gap": 212.021
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 53,
+      "position": 12,
+      "gap": 150.144
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 53,
+      "position": 4,
+      "gap": 87.872
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 53,
+      "position": 5,
+      "gap": 91.72
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 54,
+      "position": 6,
+      "gap": 71.6
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 54,
+      "position": 3,
+      "gap": 31.637
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 54,
+      "position": 9,
+      "gap": 154.637
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 54,
+      "position": 11,
+      "gap": 156.456
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 54,
+      "position": 14,
+      "gap": 162.02
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 54,
+      "position": 7,
+      "gap": 71.707
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 54,
+      "position": 13,
+      "gap": 160.525
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 54,
+      "position": 10,
+      "gap": 155.493
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 54,
+      "position": 2,
+      "gap": 7.869
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 54,
+      "position": 8,
+      "gap": 153.962
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 54,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 54,
+      "position": 15,
+      "gap": 173.19
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 54,
+      "position": 12,
+      "gap": 157.763
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 54,
+      "position": 4,
+      "gap": 63.428
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 54,
+      "position": 5,
+      "gap": 64.701
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 55,
+      "position": 7,
+      "gap": 39.895
+    },
+    {
+      "driver": "PER",
+      "team": "Red Bull Racing",
+      "lap": 55,
+      "position": 3,
+      "gap": 16.376
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 55,
+      "position": 9,
+      "gap": 147.764
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 55,
+      "position": 11,
+      "gap": 150.548
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 55,
+      "position": 14,
+      "gap": 155.708
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 55,
+      "position": 6,
+      "gap": 22.943
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 55,
+      "position": 13,
+      "gap": 153.208
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 55,
+      "position": 10,
+      "gap": 149.629
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 55,
+      "position": 2,
+      "gap": 6.187
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 55,
+      "position": 8,
+      "gap": 147.075
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 55,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 55,
+      "position": 15,
+      "gap": 159.706
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 55,
+      "position": 12,
+      "gap": 151.67
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 55,
+      "position": 4,
+      "gap": 18.34
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 55,
+      "position": 5,
+      "gap": 19.76
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 56,
+      "position": 6,
+      "gap": 16.619
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 56,
+      "position": 8,
+      "gap": 121.469
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 56,
+      "position": 10,
+      "gap": 123.235
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 56,
+      "position": 13,
+      "gap": 150.982
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 56,
+      "position": 5,
+      "gap": 15.026
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 56,
+      "position": 12,
+      "gap": 149.498
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 56,
+      "position": 9,
+      "gap": 122.746
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 56,
+      "position": 2,
+      "gap": 6.858
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 56,
+      "position": 7,
+      "gap": 120.364
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 56,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 56,
+      "position": 14,
+      "gap": 152.97
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 56,
+      "position": 11,
+      "gap": 126.249
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 56,
+      "position": 3,
+      "gap": 11.685
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 56,
+      "position": 4,
+      "gap": 13.182
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 57,
+      "position": 6,
+      "gap": 5.245
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 57,
+      "position": 8,
+      "gap": 61.145
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 57,
+      "position": 10,
+      "gap": 63.548
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "lap": 57,
+      "position": 13,
+      "gap": 95.04
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 57,
+      "position": 5,
+      "gap": 4.796
+    },
+    {
+      "driver": "RIC",
+      "team": "McLaren",
+      "lap": 57,
+      "position": 12,
+      "gap": 90.647
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 57,
+      "position": 9,
+      "gap": 62.834
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 57,
+      "position": 2,
+      "gap": 0.422
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 57,
+      "position": 7,
+      "gap": 59.493
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 57,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "MSC",
+      "team": "Haas F1 Team",
+      "lap": 57,
+      "position": 14,
+      "gap": 95.66
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 57,
+      "position": 11,
+      "gap": 66.288
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 57,
+      "position": 3,
+      "gap": 3.352
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 57,
+      "position": 4,
+      "gap": 4.042
+    },
+    {
+      "driver": "GAS",
+      "team": "AlphaTauri",
+      "lap": 58,
+      "position": 5,
+      "gap": 6.549
+    },
+    {
+      "driver": "ALO",
+      "team": "Alpine",
+      "lap": 58,
+      "position": 8,
+      "gap": 61.712
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "lap": 58,
+      "position": 10,
+      "gap": 66.065
+    },
+    {
+      "driver": "TSU",
+      "team": "AlphaTauri",
+      "lap": 58,
+      "position": 4,
+      "gap": 5.71
+    },
+    {
+      "driver": "OCO",
+      "team": "Alpine",
+      "lap": 58,
+      "position": 9,
+      "gap": 64.043
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "lap": 58,
+      "position": 1,
+      "gap": 0.0
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "lap": 58,
+      "position": 7,
+      "gap": 59.215
+    },
+    {
+      "driver": "HAM",
+      "team": "Mercedes",
+      "lap": 58,
+      "position": 2,
+      "gap": 2.29
+    },
+    {
+      "driver": "VET",
+      "team": "Aston Martin",
+      "lap": 58,
+      "position": 11,
+      "gap": 67.551
+    },
+    {
+      "driver": "SAI",
+      "team": "Ferrari",
+      "lap": 58,
+      "position": 3,
+      "gap": 5.191
+    },
+    {
+      "driver": "BOT",
+      "team": "Mercedes",
+      "lap": 58,
+      "position": 6,
+      "gap": 7.481
+    }
+  ],
+  "pitStops": [
+    {
+      "driver": "GAS",
+      "lap": 36,
+      "compound": "HARD",
+      "stopDuration": null
+    },
+    {
+      "driver": "GAS",
+      "lap": 54,
+      "compound": "MEDIUM",
+      "stopDuration": null
+    },
+    {
+      "driver": "PER",
+      "lap": 21,
+      "compound": "SOFT",
+      "stopDuration": null
+    },
+    {
+      "driver": "PER",
+      "lap": 36,
+      "compound": "HARD",
+      "stopDuration": null
+    },
+    {
+      "driver": "PER",
+      "lap": 53,
+      "compound": "HARD",
+      "stopDuration": null
+    },
+    {
+      "driver": "PER",
+      "lap": 55,
+      "compound": "SOFT",
+      "stopDuration": null
+    },
+    {
+      "driver": "ALO",
+      "lap": 36,
+      "compound": "HARD",
+      "stopDuration": null
+    },
+    {
+      "driver": "LEC",
+      "lap": 15,
+      "compound": "SOFT",
+      "stopDuration": null
+    },
+    {
+      "driver": "LEC",
+      "lap": 35,
+      "compound": "HARD",
+      "stopDuration": null
+    },
+    {
+      "driver": "STR",
+      "lap": 21,
+      "compound": "MEDIUM",
+      "stopDuration": null
+    },
+    {
+      "driver": "STR",
+      "lap": 52,
+      "compound": "HARD",
+      "stopDuration": null
+    },
+    {
+      "driver": "TSU",
+      "lap": 23,
+      "compound": "MEDIUM",
+      "stopDuration": null
+    },
+    {
+      "driver": "TSU",
+      "lap": 53,
+      "compound": "HARD",
+      "stopDuration": null
+    },
+    {
+      "driver": "RIC",
+      "lap": 18,
+      "compound": "SOFT",
+      "stopDuration": null
+    },
+    {
+      "driver": "RIC",
+      "lap": 52,
+      "compound": "HARD",
+      "stopDuration": null
+    },
+    {
+      "driver": "OCO",
+      "lap": 15,
+      "compound": "SOFT",
+      "stopDuration": null
+    },
+    {
+      "driver": "VER",
+      "lap": 13,
+      "compound": "SOFT",
+      "stopDuration": null
+    },
+    {
+      "driver": "VER",
+      "lap": 36,
+      "compound": "HARD",
+      "stopDuration": null
+    },
+    {
+      "driver": "VER",
+      "lap": 53,
+      "compound": "HARD",
+      "stopDuration": null
+    },
+    {
+      "driver": "NOR",
+      "lap": 17,
+      "compound": "SOFT",
+      "stopDuration": null
+    },
+    {
+      "driver": "NOR",
+      "lap": 48,
+      "compound": "HARD",
+      "stopDuration": null
+    },
+    {
+      "driver": "HAM",
+      "lap": 14,
+      "compound": "MEDIUM",
+      "stopDuration": null
+    },
+    {
+      "driver": "MSC",
+      "lap": 10,
+      "compound": "SOFT",
+      "stopDuration": null
+    },
+    {
+      "driver": "MSC",
+      "lap": 52,
+      "compound": "HARD",
+      "stopDuration": null
+    },
+    {
+      "driver": "VET",
+      "lap": 23,
+      "compound": "MEDIUM",
+      "stopDuration": null
+    },
+    {
+      "driver": "SAI",
+      "lap": 19,
+      "compound": "SOFT",
+      "stopDuration": null
+    },
+    {
+      "driver": "LAT",
+      "lap": 28,
+      "compound": "MEDIUM",
+      "stopDuration": null
+    },
+    {
+      "driver": "RUS",
+      "lap": 26,
+      "compound": "MEDIUM",
+      "stopDuration": null
+    },
+    {
+      "driver": "RAI",
+      "lap": 21,
+      "compound": "MEDIUM",
+      "stopDuration": null
+    },
+    {
+      "driver": "RAI",
+      "lap": 25,
+      "compound": "HARD",
+      "stopDuration": null
+    },
+    {
+      "driver": "BOT",
+      "lap": 30,
+      "compound": "MEDIUM",
+      "stopDuration": null
+    },
+    {
+      "driver": "GIO",
+      "lap": 17,
+      "compound": "MEDIUM",
+      "stopDuration": null
+    }
+  ],
+  "stints": [
+    {
+      "driver": "ALO",
+      "startLap": 1,
+      "compound": "HARD"
+    },
+    {
+      "driver": "ALO",
+      "startLap": 37,
+      "compound": "MEDIUM"
+    },
+    {
+      "driver": "BOT",
+      "startLap": 1,
+      "compound": "MEDIUM"
+    },
+    {
+      "driver": "BOT",
+      "startLap": 31,
+      "compound": "HARD"
+    },
+    {
+      "driver": "GAS",
+      "startLap": 1,
+      "compound": "HARD"
+    },
+    {
+      "driver": "GAS",
+      "startLap": 37,
+      "compound": "MEDIUM"
+    },
+    {
+      "driver": "GAS",
+      "startLap": 55,
+      "compound": "SOFT"
+    },
+    {
+      "driver": "GIO",
+      "startLap": 1,
+      "compound": "MEDIUM"
+    },
+    {
+      "driver": "GIO",
+      "startLap": 18,
+      "compound": "HARD"
+    },
+    {
+      "driver": "HAM",
+      "startLap": 1,
+      "compound": "MEDIUM"
+    },
+    {
+      "driver": "HAM",
+      "startLap": 15,
+      "compound": "HARD"
+    },
+    {
+      "driver": "LAT",
+      "startLap": 1,
+      "compound": "MEDIUM"
+    },
+    {
+      "driver": "LAT",
+      "startLap": 29,
+      "compound": "HARD"
+    },
+    {
+      "driver": "LEC",
+      "startLap": 1,
+      "compound": "SOFT"
+    },
+    {
+      "driver": "LEC",
+      "startLap": 16,
+      "compound": "HARD"
+    },
+    {
+      "driver": "LEC",
+      "startLap": 36,
+      "compound": "MEDIUM"
+    },
+    {
+      "driver": "MSC",
+      "startLap": 1,
+      "compound": "SOFT"
+    },
+    {
+      "driver": "MSC",
+      "startLap": 11,
+      "compound": "HARD"
+    },
+    {
+      "driver": "MSC",
+      "startLap": 53,
+      "compound": "SOFT"
+    },
+    {
+      "driver": "NOR",
+      "startLap": 1,
+      "compound": "SOFT"
+    },
+    {
+      "driver": "NOR",
+      "startLap": 18,
+      "compound": "HARD"
+    },
+    {
+      "driver": "NOR",
+      "startLap": 49,
+      "compound": "MEDIUM"
+    },
+    {
+      "driver": "OCO",
+      "startLap": 1,
+      "compound": "SOFT"
+    },
+    {
+      "driver": "OCO",
+      "startLap": 16,
+      "compound": "HARD"
+    },
+    {
+      "driver": "PER",
+      "startLap": 1,
+      "compound": "SOFT"
+    },
+    {
+      "driver": "PER",
+      "startLap": 22,
+      "compound": "HARD"
+    },
+    {
+      "driver": "PER",
+      "startLap": 37,
+      "compound": "HARD"
+    },
+    {
+      "driver": "PER",
+      "startLap": 54,
+      "compound": "SOFT"
+    },
+    {
+      "driver": "RAI",
+      "startLap": 1,
+      "compound": "MEDIUM"
+    },
+    {
+      "driver": "RAI",
+      "startLap": 22,
+      "compound": "HARD"
+    },
+    {
+      "driver": "RIC",
+      "startLap": 1,
+      "compound": "SOFT"
+    },
+    {
+      "driver": "RIC",
+      "startLap": 19,
+      "compound": "HARD"
+    },
+    {
+      "driver": "RIC",
+      "startLap": 53,
+      "compound": "SOFT"
+    },
+    {
+      "driver": "RUS",
+      "startLap": 1,
+      "compound": "MEDIUM"
+    },
+    {
+      "driver": "SAI",
+      "startLap": 1,
+      "compound": "SOFT"
+    },
+    {
+      "driver": "SAI",
+      "startLap": 20,
+      "compound": "HARD"
+    },
+    {
+      "driver": "STR",
+      "startLap": 1,
+      "compound": "MEDIUM"
+    },
+    {
+      "driver": "STR",
+      "startLap": 22,
+      "compound": "HARD"
+    },
+    {
+      "driver": "STR",
+      "startLap": 53,
+      "compound": "SOFT"
+    },
+    {
+      "driver": "TSU",
+      "startLap": 1,
+      "compound": "MEDIUM"
+    },
+    {
+      "driver": "TSU",
+      "startLap": 24,
+      "compound": "HARD"
+    },
+    {
+      "driver": "TSU",
+      "startLap": 54,
+      "compound": "SOFT"
+    },
+    {
+      "driver": "VER",
+      "startLap": 1,
+      "compound": "SOFT"
+    },
+    {
+      "driver": "VER",
+      "startLap": 14,
+      "compound": "HARD"
+    },
+    {
+      "driver": "VER",
+      "startLap": 37,
+      "compound": "HARD"
+    },
+    {
+      "driver": "VER",
+      "startLap": 54,
+      "compound": "SOFT"
+    },
+    {
+      "driver": "VET",
+      "startLap": 1,
+      "compound": "MEDIUM"
+    },
+    {
+      "driver": "VET",
+      "startLap": 24,
+      "compound": "HARD"
+    }
+  ],
+  "safetyCars": [
+    {
+      "type": "VSC",
+      "startLap": 35,
+      "endLap": 37
+    },
+    {
+      "type": "SC",
+      "startLap": 52,
+      "endLap": 57
+    }
+  ]
+}
