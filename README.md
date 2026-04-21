@@ -1,6 +1,5 @@
 # 🏁 2021 F1 Abu Dhabi Grand Prix: Tactical Replay Visualization
 
-[![License: MIT](https://img.scentral.it/static/v1?label=License&message=MIT&color=yellowgreen)](https://opensource.org/licenses/MIT)
 [![D3.js](https://img.shields.io/badge/Visualization-D3.js_v7-F9A03C?logo=d3.js)](https://d3js.org/)
 [![Python](https://img.shields.io/badge/Data_Pipeline-FastF1-blue?logo=python)](https://github.com/theOehrly/FastF1)
 
